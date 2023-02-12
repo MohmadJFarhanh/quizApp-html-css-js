@@ -1,0 +1,52 @@
+[
+    {
+      "question": " How many tags are in a regular element?",
+      "answer": {
+        "an0": "1",
+        "an1": "2",
+        "an2": "3",
+        "an3": "4",
+        "correctOne": "2"
+      }
+    },
+    {
+      "question": "Where is the meta tag only found?",
+      "answer": {
+        "an0": "The last page",
+        "an1": "The home page",
+        "an2": "The second page",
+        "an3": "No one",
+        "correctOne": "The home page"
+      }
+    },
+    {
+      "question": "Who is making the Web standards?",
+      "answer": {
+        "an0": "Mozila",
+        "an1": "Microsoft",
+        "an2": "The World Wide Web Consortium",
+        "an3": "Google",
+        "correctOne": "The World Wide Web Consortium"
+      }
+    },
+    {
+      "question": "Choose the correct HTML element for the largest heading?",
+      "answer": {
+        "an0": "&lth1&gt",
+        "an1": "&lthead&gt",
+        "an2": "&ltheading&gt",
+        "an3": "&lth6&gt",
+        "correctOne": "&lth1>"
+      }
+    },
+    {
+      "question": "Choose the correct HTML element to define important text",
+      "answer": {
+        "an0": "&ltstrong&gt",
+        "an1": "&lti&gt",
+        "an2": "&ltb&gt",
+        "an3": "&ltimportant&gt",
+        "correctOne": "&ltimportant>"
+      }
+    }
+  ]
